@@ -1,4 +1,4 @@
-name := "uercus"
+name := "quercus"
 
 version := "0.01-SNAPSHOT"
 
